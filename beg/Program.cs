@@ -50,7 +50,7 @@ else if (value < 1 || value > 7)
 //давать на выходе все целые числа [-n;n];
 
 
-Console.Write("Введите переменную, задающую интервал в пределах своего отрицательного и положительного значения: ");
+/*Console.Write("Введите переменную, задающую интервал в пределах своего отрицательного и положительного значения: ");
 int n = int.Parse(Console.ReadLine()!);
 int inverseValue = n*(-1);
 int stopCount = n*2;
@@ -58,4 +58,13 @@ for (int i = 0; i <= stopCount; i++)
 {
     Console.Write($" {inverseValue}");
     inverseValue++;
-}
+}*/
+
+
+
+//Написать программу, которая принимает на вход трехзначное число и выводит последнюю цифру этого числа.
+
+Console.Write("Введите любое целое трехзначное число: ");
+int count = int.Parse(Console.ReadLine()!);
+int remainder = count % 10;
+Console.WriteLine("Третья цифра будет: " + remainder);
