@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.AssemblyInfo.cs
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\prGlava\beg\bin\Debug\net7.0\beg.exe
+C:\Users\Админ\Desktop\prGlava\beg\bin\Debug\net7.0\beg.deps.json
+C:\Users\Админ\Desktop\prGlava\beg\bin\Debug\net7.0\beg.runtimeconfig.json
+C:\Users\Админ\Desktop\prGlava\beg\bin\Debug\net7.0\beg.dll
+C:\Users\Админ\Desktop\prGlava\beg\bin\Debug\net7.0\beg.pdb
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.dll
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\refint\beg.dll
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.pdb
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\beg.genruntimeconfig.cache
+C:\Users\Админ\Desktop\prGlava\beg\obj\Debug\net7.0\ref\beg.dll
