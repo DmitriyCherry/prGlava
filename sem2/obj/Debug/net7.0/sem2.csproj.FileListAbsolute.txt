@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\prGlava\sem2\bin\Debug\net7.0\sem2.exe
+C:\Users\Админ\Desktop\prGlava\sem2\bin\Debug\net7.0\sem2.deps.json
+C:\Users\Админ\Desktop\prGlava\sem2\bin\Debug\net7.0\sem2.runtimeconfig.json
+C:\Users\Админ\Desktop\prGlava\sem2\bin\Debug\net7.0\sem2.dll
+C:\Users\Админ\Desktop\prGlava\sem2\bin\Debug\net7.0\sem2.pdb
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.AssemblyInfo.cs
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.dll
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\refint\sem2.dll
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.pdb
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\sem2.genruntimeconfig.cache
+C:\Users\Админ\Desktop\prGlava\sem2\obj\Debug\net7.0\ref\sem2.dll
