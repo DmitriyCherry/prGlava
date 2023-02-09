@@ -28,7 +28,7 @@ if (num == 1)
 // ними в 2D-пространстве.
 
 
-Console.WriteLine("Введите координаты для точки A: ");
+/*Console.WriteLine("Введите координаты для точки A: ");
 Console.Write("Координата точки A по оси абсцисс: ");
 double ax =  double.Parse(Console.ReadLine()!);
 Console.Write("Координата точки A по оси ординат: ");
@@ -45,4 +45,21 @@ double ac = Math.Pow(ay-by, 2);
 
 double result = Math.Sqrt(bc + ac);
 double roundResult = Math.Round(result, 2);
-Console.WriteLine($"Расстояние между точками будет равно: {roundResult}");
+Console.WriteLine($"Расстояние между точками будет равно: {roundResult}");*/
+
+
+
+// Напишите программу, которая принимает на вход число (N) и выдаёт в таблицу квадратов
+// чисел от 1 до N.
+
+
+Console.Write("Введите число, определяющее конец диапазона: ");
+int count = int.Parse(Console.ReadLine()!);
+int firstCountDia = 1;
+Console.Write(firstCountDia);
+
+for (int i = firstCountDia + 1; i <= count; i++)
+{
+    Console.Write($", {Convert.ToInt32(Math.Pow(i, 2))}");
+}
+Console.Write(".");
